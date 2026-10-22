@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b45309" />
+      <stop offset="50%" stop-color="#d97706" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+    <linearGradient id="chipGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef3c7" />
+      <stop offset="100%" stop-color="#fde68a" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#bgGrad)" />
+  <!-- Traditional Snack Bowl / Tampah -->
+  <ellipse cx="256" cy="350" rx="160" ry="46" fill="#78350f" opacity="0.4" />
+  <ellipse cx="256" cy="330" rx="150" ry="40" fill="#92400e" />
+  <ellipse cx="256" cy="324" rx="140" ry="34" fill="#b45309" />
+  
+  <!-- Crispy Keripik & Peyek chips in bowl -->
+  <path d="M190 290 Q220 210 280 230 Q270 300 190 290 Z" fill="url(#chipGrad)" stroke="#b45309" stroke-width="4" transform="rotate(-15 235 260)" />
+  <circle cx="230" cy="245" r="7" fill="#92400e" opacity="0.8" />
+  <circle cx="250" cy="265" r="6" fill="#92400e" opacity="0.8" />
+  
+  <path d="M240 280 Q290 190 350 220 Q330 300 240 280 Z" fill="url(#chipGrad)" stroke="#b45309" stroke-width="4" transform="rotate(20 295 250)" />
+  <circle cx="290" cy="235" r="7" fill="#92400e" opacity="0.8" />
+  <circle cx="315" cy="255" r="6" fill="#92400e" opacity="0.8" />
+  
+  <path d="M160 270 Q200 180 250 200 Q230 280 160 270 Z" fill="url(#chipGrad)" stroke="#b45309" stroke-width="4" transform="rotate(-35 205 240)" />
+
+  <!-- Front Chip -->
+  <ellipse cx="256" cy="290" rx="50" ry="30" fill="url(#chipGrad)" stroke="#b45309" stroke-width="4" transform="rotate(5 256 290)" />
+  <circle cx="245" cy="285" r="6" fill="#92400e" opacity="0.8" />
+  <circle cx="270" cy="292" r="7" fill="#92400e" opacity="0.8" />
+  
+  <!-- Brand text -->
+  <text x="256" y="440" font-family="'Plus Jakarta Sans', sans-serif" font-size="44" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="2">KLETAK-KLETIK</text>
+  <text x="256" y="475" font-family="'Plus Jakarta Sans', sans-serif" font-size="20" font-weight="600" fill="#fde68a" text-anchor="middle" letter-spacing="4">SNACK TRADISIONAL</text>
+</svg>

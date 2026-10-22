@@ -1,0 +1,6 @@
+{
+  "name": "Kletak-Kletik Snack",
+  "description": "Aplikasi PWA operasional UMKM snack tradisional: pemesanan, lacak status pesanan, chat penjual-pelanggan, manajemen inventori stok, dan laporan keuangan standar akuntansi double-entry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
