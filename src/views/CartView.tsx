@@ -103,7 +103,7 @@ export const CartView: React.FC = () => {
         </div>
         <h2 className="text-xl font-bold text-stone-900">Keranjang Belanja Kosong</h2>
         <p className="text-xs sm:text-sm text-stone-500 max-w-sm mx-auto">
-          Belum ada snack yang Anda pilih. Silakan jelajahi aneka keripik pisang, peyek, dan keripik tempe renyah kami!
+          Belum ada snack yang Anda pilih. Silakan jelajahi aneka keripik pisang, peyek, dan rengginang renyah kami!
         </p>
         <button
           onClick={() => setActiveView('katalog')}

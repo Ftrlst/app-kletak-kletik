@@ -70,7 +70,7 @@ export const CatalogView: React.FC = () => {
               Renyahnya Asli, <span className="text-amber-400">Gurihnya Bikin Nagih!</span>
             </h1>
             <p className="text-sm sm:text-base text-amber-100/90 max-w-xl leading-relaxed">
-              Kletak-Kletik Snack menghadirkan aneka keripik pisang karamel madu, peyek kacang tanah, kacang hijau, kedelai dengan tambahan daun jeruk, dan keripik tempe yang digoreng higienis dengan minyak kelapa pilihan.
+              Kletak-Kletik Snack menghadirkan aneka keripik pisang karamel madu, peyek daun jeruk, dan rengginang gurih yang digoreng higienis dengan minyak kelapa pilihan.
             </p>
 
             <div className="pt-2 flex flex-wrap items-center gap-3">
